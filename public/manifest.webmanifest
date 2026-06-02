@@ -1,0 +1,11 @@
+{
+  "name": "Latihan UAS UI/UX Design",
+  "short_name": "UIUX UAS",
+  "description": "Website latihan UAS UI/UX Design dengan 50 soal, pembahasan, dan simulasi ujian.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#7c3aed",
+  "lang": "id",
+  "icons": []
+}

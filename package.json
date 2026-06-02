@@ -1,0 +1,29 @@
+{
+  "name": "uiux-uas-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website latihan UAS UI/UX Design berisi 50 soal pilihan ganda, mode belajar, simulasi ujian, pembahasan, dan progress lokal.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest",
+    "@eslint/eslintrc": "latest"
+  }
+}
